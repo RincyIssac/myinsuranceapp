@@ -11,6 +11,6 @@ spec:
   ports:
   - port: 5000
     targetPort: http
-    nodePort: 31163
+    nodePort: 31173
     protocol: TCP
     name: http
